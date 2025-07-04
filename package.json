@@ -1,0 +1,13 @@
+{
+  "name": "myplayer-local",
+  "version": "1.0.0",
+  "description": "Local surveillance video player",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests specified'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
